@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 fondo">
+
+            </div>
+            <div class="col-md-9 fondo-gris-bajo tamaño-logo">
+                <h1 class="txt-nbar">GPS 2i</h1>
+            </div>
+
+        </div>
+
+
+    
+        <div class="row contenido-fondo">
+
+            <div class="col-md-3 contenedor-opciones contenido-fondo">
+                <ul>
+
+                    <li><a href="#" class="txt-menu"><img src="~/Img/boxito.png" style="width:60px;height:60px;margin-top:20px;margin-right:10px;">Sucursales</a></li>
+                    <li><a href="#" class="txt-menu"><img src="~/Img/camiones.png" style="width:60px;height:60px;margin-top:20px;margin-right:10px;">Vehìculos</a></li>
+                    <li><a href="#" class="txt-menu"><img src="~/Img/Workers_worker_hat_hard_construction_building.png" style="width:60px;height:60px;margin-top:20px;margin-right:10px;">Empleados</a></li>
+                </ul>
+
+            </div>
+
+            <div class="col-md-9 contenido-fondo">
+
+                <h1>hola desde8</h1>
+            </div>
+        </div>
+
+        </div>
+
+    
+    
+    
+ 
+     
+  <div class="container-fluid">
+        @RenderBody()
+       
+     
+
+       </div>
+       
+  
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

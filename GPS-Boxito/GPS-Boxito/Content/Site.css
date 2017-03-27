@@ -1,0 +1,67 @@
+﻿
+
+body {
+  overflow:hidden;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.txt-nbar{
+color:red;
+
+}
+.tamaño-logo{
+
+    height:20vh;
+}
+.fondo{
+background-image:url('../Img/descarga.jpg');
+background-size:cover;
+height:20vh;
+
+}
+.contenedor-opciones{
+
+background-color:#2C2C2C;
+}
+.txt-menu{
+color:#F5F5F5;
+font-size:30px;
+margin-right:12px;
+text-decoration:inherit;
+text-decoration-line:none;
+text-decoration-color:yellow;
+
+
+}
+.contenido-fondo{
+
+height:80vh;
+}
+.fondo-gris-bajo{
+background-color:#ECF0F1;
+
+}
+.container-fluid{
+margin:0;
+padding:0;
+
+}
+
