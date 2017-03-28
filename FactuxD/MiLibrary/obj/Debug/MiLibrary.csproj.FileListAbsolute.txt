@@ -1,0 +1,4 @@
+c:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\MiLibrary\bin\Debug\MiLibrary.dll
+c:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\MiLibrary\bin\Debug\MiLibrary.pdb
+c:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\MiLibrary\obj\Debug\MiLibrary.dll
+c:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\MiLibrary\obj\Debug\MiLibrary.pdb
