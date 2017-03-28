@@ -1,0 +1,11 @@
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\bin\Debug\Programa Operaciones basicas dll.exe.config
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\obj\Debug\Programa Operaciones basicas dll.csprojResolveAssemblyReference.cache
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\obj\Debug\Programa_Operaciones_basicas_dll.Form1.resources
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\obj\Debug\Programa_Operaciones_basicas_dll.Properties.Resources.resources
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\obj\Debug\Programa Operaciones basicas dll.csproj.GenerateResource.Cache
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\bin\Debug\Programa Operaciones basicas dll.exe
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\bin\Debug\Programa Operaciones basicas dll.pdb
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\bin\Debug\LibraryHerramientas.dll
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\bin\Debug\LibraryHerramientas.pdb
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\obj\Debug\Programa Operaciones basicas dll.exe
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\Programa Operaciones basicas dll\Programa Operaciones basicas dll\obj\Debug\Programa Operaciones basicas dll.pdb
