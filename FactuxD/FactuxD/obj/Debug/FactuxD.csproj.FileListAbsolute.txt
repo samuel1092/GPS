@@ -2,10 +2,15 @@ c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\b
 c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\bin\Debug\FactuxD.exe
 c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\bin\Debug\FactuxD.pdb
 c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.csprojResolveAssemblyReference.cache
-c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.Form1.resources
 c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.Properties.Resources.resources
 c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.csproj.GenerateResource.Cache
 c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.exe
 c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.pdb
 c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\bin\Debug\MiLibrary.dll
 c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\bin\Debug\MiLibrary.pdb
+C:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.VentanaAdmin.resources
+C:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.VentanaLogin.resources
+C:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.VentanaUser.resources
+C:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.FormBase.resources
+C:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.ContenedorPrincipal.resources
+C:\Users\g_san\OneDrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.Mantenimiento.resources
