@@ -1,0 +1,11 @@
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\bin\Debug\FactuxD.exe.config
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\bin\Debug\FactuxD.exe
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\bin\Debug\FactuxD.pdb
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.csprojResolveAssemblyReference.cache
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.Form1.resources
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.Properties.Resources.resources
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.csproj.GenerateResource.Cache
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.exe
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\obj\Debug\FactuxD.pdb
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\bin\Debug\MiLibrary.dll
+c:\users\g_san\onedrive\documentos\visual studio 2015\Projects\FactuxD\FactuxD\bin\Debug\MiLibrary.pdb
