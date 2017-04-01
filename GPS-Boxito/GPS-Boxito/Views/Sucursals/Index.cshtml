@@ -1,0 +1,64 @@
+﻿@model IEnumerable<GPS_Boxito.Models.Sucursal>
+
+@{
+    ViewBag.Title = "Bocito-Gps";
+}
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+<h2>Gestionar Sucursales</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+    
+  
+  
+    <div class="container-fluid">
+        <table class="table table-bordered">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.nombre)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.region)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.reparto)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.latitud)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.longitud)
+                </th>
+                <th>Acciones</th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.region)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.reparto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.latitud)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.longitud)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.id_sucursal }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.id_sucursal }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.id_sucursal })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
