@@ -37,6 +37,14 @@ background-size:cover;
 height:20vh;
 
 }
+.img-menu{
+
+    width:60px;
+    height:60px;
+    margin-top:20px;
+    margin-right:10px;
+}
+
 .contenedor-opciones{
 
 background-color:#2C2C2C;
@@ -64,4 +72,17 @@ margin:0;
 padding:0;
 
 }
+.icono-agregar{
 
+width:8vw;
+height:auto;
+
+}
+.icono-buscar{
+width:20vw;
+}
+.campo-busqueda{
+width:90vw;
+height:auto;
+
+}
