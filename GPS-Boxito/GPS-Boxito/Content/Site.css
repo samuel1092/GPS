@@ -74,13 +74,15 @@ padding:0;
 }
 .icono-agregar{
 
-width:8vh;
+width:8vw;
 height:auto;
 
 }
+.icono-buscar{
+width:20vw;
+}
 .campo-busqueda{
-width:80%;
+width:90vw;
 height:auto;
-
 
 }

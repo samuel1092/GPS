@@ -1,19 +1,38 @@
 ﻿@model IEnumerable<GPS_Boxito.Models.Sucursal>
 
 @{
-    ViewBag.Title = "Bocito-Gps";
+    ViewBag.Title = "Boxito-Gps";
 }
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
 <h2>Gestionar Sucursales</h2>
+<p>@Html.ActionLink("New Create", "Create", "Travel", null, new { @class = "btn btn-primary btn-large" })</p>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
     
-  
-  
     <div class="container-fluid">
+        <form>
+           
+            <div class="input-group input-group-sm campo-busqueda">
+                
+                <div class="input-group-btn icono-agregar" >
+                   
+               <span class="btn btn-danger">
+                  
+                       <i class="glyphicon glyphicon-plus">
+
+                       </i>
+                   
+               </span>
+                </div>
+
+                <input type="text" class="form-control" placeholder="Buscar por Sucursal, Nombre o Región">
+
+                <div class="input-group-btn campo-busqueda">
+                    <button class="btn btn-danger icono-busqueda" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                </div>
+            </div>
+        </form>
+       <br />
         <table class="table table-bordered">
             <tr>
                 <th>
